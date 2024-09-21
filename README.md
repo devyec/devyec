@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Yakup Emre Celebi. I have been studying computer science at Bilkent University since 2024.
 <!--
 **devyec/devyec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
